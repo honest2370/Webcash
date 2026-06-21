@@ -6,8 +6,7 @@
 # Install Supabase CLI
 npm install -g supabase
 
-# Login to Supabase
-supabase login
+
 
 # Link your project
 supabase link --project-ref whglmhqnestemuhvtpsm
